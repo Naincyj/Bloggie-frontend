@@ -10,7 +10,7 @@ return (
 <div className="post">
             <div className="image">
               <Link to={`/post/${_id}`}>
-              <img src={"http://localhost:4000/"+cover} alt=""></img>
+              <img src={"https://bloggie-bkrf.onrender.com/"+cover} alt=""></img>
               
               </Link>
 
